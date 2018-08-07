@@ -12,4 +12,4 @@ to=gets.chomp
 puts "Who is the card from?"
 from=gets.chomp
 
-holiday_greeting(to, from, holiday)
+puts holiday_greeting(to, from, holiday)
